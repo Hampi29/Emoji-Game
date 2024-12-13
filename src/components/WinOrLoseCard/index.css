@@ -1,0 +1,11 @@
+/* Write your code here. */
+.imgg {
+  height: 200px;
+  width: 200px;
+}
+.card {
+  height: 70vh;
+  width: 70vw;
+  background-color: azure;
+  border-radius: 10px;
+}

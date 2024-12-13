@@ -1,0 +1,13 @@
+/* Write your code here. */
+.bg-container {
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  width: 100vw;
+  height: 100vh;
+  padding: 40px;
+}
+.emojicardlist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
